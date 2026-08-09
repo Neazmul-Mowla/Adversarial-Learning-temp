@@ -1,0 +1,3 @@
+method,attack_rate,test_accuracy,test_macro_f1
+Undefended CE,0.3,0.8903703703703704,0.8904669506347415
+RAPID-CRC defended,0.3,0.8849382716049383,0.8850983669620792
